@@ -162,10 +162,9 @@ To get this project up and running on your local machine:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/YourUsername/CarRentalSystem.git](https://github.com/YourUsername/CarRentalSystem.git)
+    git clone https://github.com/MaheshPatil05/car_rental_system.git
     cd CarRentalSystem
     ```
-    (Replace `YourUsername` with your actual GitHub username)
 
 2.  **Add PostgreSQL JDBC Driver**:
     * If using Maven, add this dependency to your `pom.xml`:
